@@ -1,0 +1,10 @@
+{
+  "name": "Khmer Subtitle Pro",
+  "description": "AI-powered audio to Khmer subtitle converter with multi-language transcription and natural translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "audio_processing",
+    "translation",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
